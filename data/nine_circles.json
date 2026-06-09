@@ -1,0 +1,18 @@
+{
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/gVEnZD_xBVg?si=RF0LUpXt0ZF3BumG",
+    "percentToQualify": "72",
+    "password": "121214",
+    "records": [
+        {
+            "user": "TacitGD",
+            "link": "https://youtu.be/gVEnZD_xBVg?si=RF0LUpXt0ZF3BumG", 
+            "percent": 100,
+            "hz": "240hz"
+        }
+    ]
+}

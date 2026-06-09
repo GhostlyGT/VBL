@@ -1,0 +1,18 @@
+{
+    "id": 58002670,
+    "name": "Sakupen Egg",
+    "author": "Sivlol",
+    "creators": ["Sivlol & more"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/H9ozwcigQpc?si=ygq6uy8a_2LRd3HU",
+    "percentToQualify": "78",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "TacitGD",
+            "link": "https://youtu.be/H9ozwcigQpc?si=ygq6uy8a_2LRd3HU",
+            "percent": 100,
+            "hz": "160hz"
+        }
+    ]
+}
