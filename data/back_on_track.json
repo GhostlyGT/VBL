@@ -1,0 +1,25 @@
+{
+    "id": 2,
+    "name": "Back on Track",
+    "author": "Roptop",
+    "creators": ["Roptop"],
+    "verifier": "TacitGD",
+    "verification": "https://youtu.be/V1BHlVIQqsk?si=GEQJ6jQhJsVcurYX",
+    "percentToQualify": "66",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/Aq5WXmQQooo?si=Nh7vSzSpcBta_iik",
+            "percent": 100,
+            "hz": "45hz"
+        },
+
+        {
+            "user": "Slim Cripple",
+            "link": "https://youtu.be/Aq5WXmQQooo?si=Nh7vSzSpcBta_iik",
+            "percent": 100,
+            "hz": "60hz"
+        }
+    ]
+}
