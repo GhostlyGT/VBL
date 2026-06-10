@@ -1,0 +1,25 @@
+{
+    "id": 7,
+    "name": "Jumper",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/7UP6FhC9wvM?si=7cz-p62Tw31TJsR2",
+    "percentToQualify": "74",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "TacitGD",
+            "link": "https://youtu.be/Aq5WXmQQooo?si=Dt27BMB-bzFGdv1a", 
+            "percent": 100,
+            "hz": "60hz"
+        },
+        
+        {
+            "user": "Slim Cripple",
+            "link": "https://youtu.be/Aq5WXmQQooo?si=Dt27BMB-bzFGdv1a", 
+            "percent": 100,
+            "hz": "60hz"
+        }
+    ]
+}
