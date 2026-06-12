@@ -1,0 +1,18 @@
+{
+    "id": 108372523,
+    "name": "Great Assest",
+    "author": "PixelLolka",
+    "creators": ["PixelLolka"],
+    "verifier": "TacitGD",
+    "verification": "https://youtu.be/Q2_6SP7EY5M?si=GjlJFi04ufcMCq2N",
+    "percentToQualify": "74",
+    "password": "Not Copyable",
+    "records": [
+            {
+                "user": "Mischief",
+                "link": "https://youtu.be/Q2_6SP7EY5M?si=GjlJFi04ufcMCq2N",
+                "percent": 100,
+                "hz": "240hz"
+            }
+    ]
+}

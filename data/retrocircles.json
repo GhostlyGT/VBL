@@ -1,0 +1,18 @@
+{
+    "id": 14000484,
+    "name": "Retro Circles",
+    "author": "Nacho21",
+    "creators": ["Nacho21"],
+    "verifier": "TacitGD",
+    "verification": "https://youtu.be/yVxKTQPzyus?si=fOjae4MItZA-QT7a",
+    "percentToQualify": "67",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "",
+            "percent": 100,
+            "hz": "240hz"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 18735780,
+    "name": "Dear Nostalgists",
+    "author": "TriAxis",
+    "creators": ["TriAxis"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/ZBuZfcHGnoE?si=A36XR0kZ8azvCmbt",
+    "percentToQualify": "77",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "TacitGD",
+            "link": "https://youtu.be/ZBuZfcHGnoE?si=A36XR0kZ8azvCmbt",
+            "percent": 100,
+            "hz": "240hz"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3543219,
+    "name": "Speed Racer",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "TacitGD",
+    "verification": "https://youtu.be/R8RsJVKKd8w?si=655M-5xwGsDQmaLj",
+    "percentToQualify": "74",
+    "password": "Not Copyable",
+    "records": [
+            {
+                "user": "Mischief",
+                "link": "https://youtu.be/R8RsJVKKd8w?si=655M-5xwGsDQmaLj",
+                "percent": 100,
+                "hz": "240hz"
+            }
+    ]
+}
